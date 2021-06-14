@@ -41,6 +41,7 @@
   },
   "homepage": "https://github.com/viral-network/react-native-bundle#readme",
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
